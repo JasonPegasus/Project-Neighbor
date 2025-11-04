@@ -1,4 +1,3 @@
-<center>
 # Project Neighbor
 
 This fangame, as always did in previous versions, aims to recover the old alpha **feeling** of Hello Neighbor (Wow, how original!) with my own additions that makes the game, in my opinion, better in many aspects.
@@ -18,4 +17,3 @@ Don't. Expect. Simple. Stuff.
 
 Use this as base for your fangames or even separated projects; but if you use it, please give credit, it's always very appreciated...
 About forks, ehh... I'm leaving this repo here for boosting the community, assuming everybody has good enough ethics for working, so you get it. (Also i plan on this game being moddeable so don't make forks with the excuse of "i want my custom content in" pls)
-</center>

@@ -32,3 +32,11 @@ void UProjectNeighborCPPFunctions::SetEditorIconForActorClass(UObject* ActorOrCl
 
 	#endif
 }
+
+
+bool UProjectNeighborCPPFunctions::IsClassOrChild(UObject* obj, UClass* targetClass)
+{
+	if (!obj || !targetClass) { return false; }
+	if (obj->IsA(targetClass)) { return true; }
+	return false;
+}

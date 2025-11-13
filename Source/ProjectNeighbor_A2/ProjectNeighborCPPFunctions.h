@@ -27,5 +27,9 @@ public:
 				return false;
 		#endif
 	}
-	
+
+
+
+	UFUNCTION(BlueprintPure, meta = (DisplayName = "Is Class or Child"))
+	static bool IsClassOrChild(UObject* obj, UClass* targetClass);
 };

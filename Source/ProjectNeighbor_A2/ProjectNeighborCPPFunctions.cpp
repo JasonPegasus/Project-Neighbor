@@ -6,6 +6,22 @@
 #include "Editor.h"
 #endif
 
+#if PLATFORM_WINDOWS
+
+#include "Windows/AllowWindowsPlatformTypes.h"
+#include "Windows/PreWindowsApi.h"
+
+#include <winuser.h>
+
+#include "Windows/PostWindowsApi.h"
+#include "Windows/HideWindowsPlatformTypes.h"
+
+#include <tlhelp32.h>
+#include <processthreadsapi.h>
+#include <handleapi.h>
+
+#endif
+
 void UProjectNeighborCPPFunctions::SetEditorIconForActorClass(UObject* ActorOrClass, UTexture2D* NewIcon)
 {
 	#if WITH_EDITOR
@@ -33,6 +49,14 @@ void UProjectNeighborCPPFunctions::SetEditorIconForActorClass(UObject* ActorOrCl
 	#endif
 }
 
+
+
+void UProjectNeighborCPPFunctions::DisplayMessageBox(const FString& title, const FString& text)
+{
+	#if PLATFORM_WINDOWS
+		MessageBox(nullptr, *text, *title, MB_OK);
+	#endif
+}
 
 bool UProjectNeighborCPPFunctions::IsClassOrChild(UObject* obj, UClass* targetClass)
 {

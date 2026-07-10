@@ -32,4 +32,9 @@ public:
 
 	UFUNCTION(BlueprintPure, meta = (DisplayName = "Is Class or Child"))
 	static bool IsClassOrChild(UObject* obj, UClass* targetClass);
+
+
+	UFUNCTION(BlueprintCallable, meta = (Category = "Windows", DisplayName = "Message Box"))
+		static void DisplayMessageBox(const FString& title, const FString& text);
+
 };

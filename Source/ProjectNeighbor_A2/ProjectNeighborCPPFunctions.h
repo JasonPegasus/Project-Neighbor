@@ -35,6 +35,5 @@ public:
 
 
 	UFUNCTION(BlueprintCallable, meta = (Category = "Windows", DisplayName = "Message Box"))
-		static void DisplayMessageBox(const FString& title, const FString& text);
-
+	static void DisplayMessageBox(const FString& title, const FString& text);
 };

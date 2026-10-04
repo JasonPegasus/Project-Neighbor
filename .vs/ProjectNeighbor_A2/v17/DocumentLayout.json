@@ -9,9 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2\\ProjectNeighborCPPFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|solutionrelative:Source\\ProjectNeighbor_A2\\ProjectNeighborCPPFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0BC940D-CE16-49A1-B04B-642C21F35FAB}|Intermediate\\ProjectFiles\\UE4.vcxproj|H:\\UnrealEngine\\Versions\\UE_4.27\\Engine\\Source\\Runtime\\Engine\\Classes\\Kismet\\KismetArrayLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,26 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "KismetArrayLibrary.h",
-              "DocumentMoniker": "H:\\UnrealEngine\\Versions\\UE_4.27\\Engine\\Source\\Runtime\\Engine\\Classes\\Kismet\\KismetArrayLibrary.h",
-              "RelativeDocumentMoniker": "..\\..\\Versions\\UE_4.27\\Engine\\Source\\Runtime\\Engine\\Classes\\Kismet\\KismetArrayLibrary.h",
-              "ToolTip": "H:\\UnrealEngine\\Versions\\UE_4.27\\Engine\\Source\\Runtime\\Engine\\Classes\\Kismet\\KismetArrayLibrary.h [Solo lectura]",
-              "RelativeToolTip": "..\\..\\Versions\\UE_4.27\\Engine\\Source\\Runtime\\Engine\\Classes\\Kismet\\KismetArrayLibrary.h [Solo lectura]",
-              "ViewState": "AQIAAN4AAAAAAAAAAAAwwPQAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-07-27T23:35:10.008Z",
-              "EditorCaption": " [Solo lectura]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ProjectNeighborCPPFunctions.cpp",
               "DocumentMoniker": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2\\ProjectNeighborCPPFunctions.cpp",
               "RelativeDocumentMoniker": "Source\\ProjectNeighbor_A2\\ProjectNeighborCPPFunctions.cpp",
               "ToolTip": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2\\ProjectNeighborCPPFunctions.cpp",
               "RelativeToolTip": "Source\\ProjectNeighbor_A2\\ProjectNeighborCPPFunctions.cpp",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAEEAAAABAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAqwEEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-07-27T23:17:07.567Z",
               "EditorCaption": ""
@@ -69,7 +53,7 @@
               "RelativeDocumentMoniker": "Source\\ProjectNeighbor_A2\\ProjectNeighborCPPFunctions.h",
               "ToolTip": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2\\ProjectNeighborCPPFunctions.h",
               "RelativeToolTip": "Source\\ProjectNeighbor_A2\\ProjectNeighborCPPFunctions.h",
-              "ViewState": "AQIAABQAAAAAAAAAAAAuwCUAAABKAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-07-27T23:17:07.027Z",
               "EditorCaption": ""

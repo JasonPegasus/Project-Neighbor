@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2\\ProjectNeighborCPPFunctions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|solutionrelative:Source\\ProjectNeighbor_A2\\ProjectNeighborCPPFunctions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2\\ProjectNeighborCPPFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|solutionrelative:Source\\ProjectNeighbor_A2\\ProjectNeighborCPPFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.Build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.Build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor.Target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|solutionrelative:Source\\ProjectNeighbor_A2Editor.Target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,28 +43,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProjectNeighborCPPFunctions.cpp",
-              "DocumentMoniker": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2\\ProjectNeighborCPPFunctions.cpp",
-              "RelativeDocumentMoniker": "Source\\ProjectNeighbor_A2\\ProjectNeighborCPPFunctions.cpp",
-              "ToolTip": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2\\ProjectNeighborCPPFunctions.cpp",
-              "RelativeToolTip": "Source\\ProjectNeighbor_A2\\ProjectNeighborCPPFunctions.cpp",
-              "ViewState": "AQIAADYAAAAAAAAAAAAqwEEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-07-27T23:17:07.567Z",
-              "EditorCaption": ""
+              "Title": "ProjectNeighbor_A2Editor.h",
+              "DocumentMoniker": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.h",
+              "RelativeDocumentMoniker": "Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.h",
+              "ToolTip": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.h",
+              "RelativeToolTip": "Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-12T00:22:16.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectNeighbor_A2Editor.Build.cs",
+              "DocumentMoniker": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.Build.cs",
+              "RelativeDocumentMoniker": "Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.Build.cs",
+              "ToolTip": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.Build.cs",
+              "RelativeToolTip": "Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.Build.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T00:22:16.776Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProjectNeighborCPPFunctions.h",
-              "DocumentMoniker": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2\\ProjectNeighborCPPFunctions.h",
-              "RelativeDocumentMoniker": "Source\\ProjectNeighbor_A2\\ProjectNeighborCPPFunctions.h",
-              "ToolTip": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2\\ProjectNeighborCPPFunctions.h",
-              "RelativeToolTip": "Source\\ProjectNeighbor_A2\\ProjectNeighborCPPFunctions.h",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-07-27T23:17:07.027Z",
+              "Title": "ProjectNeighbor_A2Editor.cpp",
+              "DocumentMoniker": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.cpp",
+              "RelativeDocumentMoniker": "Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.cpp",
+              "ToolTip": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.cpp",
+              "RelativeToolTip": "Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-12T00:22:16.641Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectNeighbor_A2Editor.Target.cs",
+              "DocumentMoniker": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor.Target.cs",
+              "RelativeDocumentMoniker": "Source\\ProjectNeighbor_A2Editor.Target.cs",
+              "ToolTip": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor.Target.cs",
+              "RelativeToolTip": "Source\\ProjectNeighbor_A2Editor.Target.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T00:22:04.539Z"
             }
           ]
         }

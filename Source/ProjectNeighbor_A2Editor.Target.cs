@@ -10,6 +10,6 @@ public class ProjectNeighbor_A2EditorTarget : TargetRules
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 
-		ExtraModuleNames.AddRange( new string[] { "ProjectNeighbor_A2" } );
+		ExtraModuleNames.AddRange( new string[] { "ProjectNeighbor_A2", "ProjectNeighbor_A2Editor" } );
 	}
 }

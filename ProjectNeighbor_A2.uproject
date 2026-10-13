@@ -12,6 +12,11 @@
 				"Engine",
 				"CoreUObject"
 			]
+		},
+		{
+			"Name": "ProjectNeighbor_A2Editor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
 		}
 	],
 	"Plugins": [

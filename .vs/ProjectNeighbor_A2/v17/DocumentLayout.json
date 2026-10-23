@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.Build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.Build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|solutionrelative:Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor.Target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|solutionrelative:Source\\ProjectNeighbor_A2Editor.Target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|solutionrelative:Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.Build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|solutionrelative:Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.Build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProjectNeighbor_A2Editor.h",
               "DocumentMoniker": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.h",
               "RelativeDocumentMoniker": "Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.h",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProjectNeighbor_A2Editor.Build.cs",
               "DocumentMoniker": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.Build.cs",
               "RelativeDocumentMoniker": "Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.Build.cs",
@@ -72,14 +72,14 @@
               "RelativeDocumentMoniker": "Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.cpp",
               "ToolTip": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.cpp",
               "RelativeToolTip": "Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAACLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-12T00:22:16.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ProjectNeighbor_A2Editor.Target.cs",
               "DocumentMoniker": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor.Target.cs",
               "RelativeDocumentMoniker": "Source\\ProjectNeighbor_A2Editor.Target.cs",

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|solutionrelative:Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|solutionrelative:Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor.Target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|solutionrelative:Source\\ProjectNeighbor_A2Editor.Target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|solutionrelative:Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF7C6A85-6359-4662-B8AD-99163B087D60}|Intermediate\\ProjectFiles\\ProjectNeighbor_A2.vcxproj|H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.Build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ProjectNeighbor_A2Editor.h",
               "DocumentMoniker": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.h",
               "RelativeDocumentMoniker": "Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.h",
@@ -50,7 +50,8 @@
               "RelativeToolTip": "Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-10-12T00:22:16.878Z"
+              "WhenOpened": "2026-10-12T00:22:16.878Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -66,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProjectNeighbor_A2Editor.cpp",
               "DocumentMoniker": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.cpp",
               "RelativeDocumentMoniker": "Source\\ProjectNeighbor_A2Editor\\ProjectNeighbor_A2Editor.cpp",
@@ -79,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProjectNeighbor_A2Editor.Target.cs",
               "DocumentMoniker": "H:\\UnrealEngine\\Projects\\ProjectNeighbor_A2\\Source\\ProjectNeighbor_A2Editor.Target.cs",
               "RelativeDocumentMoniker": "Source\\ProjectNeighbor_A2Editor.Target.cs",
